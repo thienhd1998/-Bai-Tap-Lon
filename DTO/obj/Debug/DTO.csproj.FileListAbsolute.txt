@@ -1,0 +1,83 @@
+C:\Users\ADMIN\source\repos\DB_Extern\DTO\bin\Debug\DTO.dll
+C:\Users\ADMIN\source\repos\DB_Extern\DTO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DB_Extern\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DB_Extern\DTO\obj\Debug\DTO.dll
+C:\Users\ADMIN\source\repos\DB_Extern\DTO\obj\Debug\DTO.pdb
+D:\Project\DB_Extern\DTO\bin\Debug\DTO.dll
+D:\Project\DB_Extern\DTO\bin\Debug\DTO.pdb
+D:\Project\DB_Extern\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Project\DB_Extern\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Project\DB_Extern\DTO\obj\Debug\DTO.dll
+D:\Project\DB_Extern\DTO\obj\Debug\DTO.pdb
+D:\Project\DB_Extern\DTO\bin\Debug\EntityFramework.dll
+D:\Project\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\DB_Extern\DTO\bin\Debug\EntityFramework.xml
+D:\Project\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\DB_Extern\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\bin\Debug\EntityFramework.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\bin\Debug\EntityFramework.xml
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\obj\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DTO\obj\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\bin\Debug\EntityFramework.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\bin\Debug\EntityFramework.xml
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\obj\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DTO\obj\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.xml
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\DTO.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\DTO.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.xml
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DTO\obj\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\obj\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\TeacherManager\DTO\obj\Debug\DTO.pdb
+C:\Users\DELL\Desktop\TeacherManager\DTO\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\TeacherManager\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\TeacherManager\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\TeacherManager\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TeacherManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TeacherManager\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\DELL\Desktop\TeacherManager\DTO\obj\Debug\DTO.dll
+C:\Users\DELL\Desktop\TeacherManager\DTO\obj\Debug\DTO.pdb

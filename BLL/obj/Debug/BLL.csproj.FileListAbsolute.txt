@@ -1,0 +1,88 @@
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\bin\Debug\BLL.dll
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\bin\Debug\BLL.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\bin\Debug\DAL.dll
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\bin\Debug\DTO.dll
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\bin\Debug\DTO.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\obj\Debug\BLL.dll
+C:\Users\ADMIN\source\repos\DB_Extern\BLL\obj\Debug\BLL.pdb
+D:\Project\DB_Extern\BLL\bin\Debug\BLL.dll
+D:\Project\DB_Extern\BLL\bin\Debug\BLL.pdb
+D:\Project\DB_Extern\BLL\bin\Debug\DAL.dll
+D:\Project\DB_Extern\BLL\bin\Debug\DTO.dll
+D:\Project\DB_Extern\BLL\bin\Debug\DAL.pdb
+D:\Project\DB_Extern\BLL\bin\Debug\DTO.pdb
+D:\Project\DB_Extern\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Project\DB_Extern\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project\DB_Extern\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Project\DB_Extern\BLL\obj\Debug\BLL.dll
+D:\Project\DB_Extern\BLL\obj\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\obj\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\obj\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\bin\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\bin\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\bin\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\bin\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\obj\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\BLL\obj\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\BLL.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\BLL.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DAL.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DTO.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DAL.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\bin\Debug\DTO.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\BLL\obj\Debug\BLL.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\bin\Debug\BLL.dll
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\bin\Debug\BLL.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\obj\Debug\BLL.dll
+C:\Users\ADMIN\Desktop\TeacherManager\BLL\obj\Debug\BLL.pdb
+C:\Users\DELL\Desktop\TeacherManager\BLL\bin\Debug\BLL.dll
+C:\Users\DELL\Desktop\TeacherManager\BLL\bin\Debug\BLL.pdb
+C:\Users\DELL\Desktop\TeacherManager\BLL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\TeacherManager\BLL\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\TeacherManager\BLL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\TeacherManager\BLL\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\TeacherManager\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TeacherManager\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TeacherManager\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\DELL\Desktop\TeacherManager\BLL\obj\Debug\BLL.dll
+C:\Users\DELL\Desktop\TeacherManager\BLL\obj\Debug\BLL.pdb

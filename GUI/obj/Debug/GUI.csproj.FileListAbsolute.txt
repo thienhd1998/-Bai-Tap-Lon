@@ -1,0 +1,201 @@
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\bin\Debug\GUI.exe.config
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\bin\Debug\GUI.exe
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\bin\Debug\GUI.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\bin\Debug\BLL.dll
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\bin\Debug\DTO.dll
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\bin\Debug\BLL.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\bin\Debug\DTO.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.exe
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.FormUser.resources
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.FormInformation.resources
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.formThông_tin.FormThongTinCaNhan.resources
+C:\Users\ADMIN\source\repos\DB_Extern\GUI\obj\Debug\GUI.formCông_tác.FormCongTac.resources
+D:\Project\DB_Extern\GUI\bin\Debug\GUI.exe.config
+D:\Project\DB_Extern\GUI\bin\Debug\GUI.exe
+D:\Project\DB_Extern\GUI\bin\Debug\GUI.pdb
+D:\Project\DB_Extern\GUI\bin\Debug\BLL.dll
+D:\Project\DB_Extern\GUI\bin\Debug\DTO.dll
+D:\Project\DB_Extern\GUI\bin\Debug\BLL.pdb
+D:\Project\DB_Extern\GUI\bin\Debug\DTO.pdb
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormUser.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.exe
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.pdb
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormLyLichCaNhan.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormCongTac.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormTaiDonVi.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormNhanLuc.resources
+D:\Project\DB_Extern\GUI\bin\Debug\DAL.dll
+D:\Project\DB_Extern\GUI\bin\Debug\DAL.pdb
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormChiTietNhanLuc.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormTraCuu.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormThongBaoSure.resources
+D:\Project\DB_Extern\GUI\obj\Debug\GUI.FormTongHoptai.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormCongTac.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormLyLichCaNhan.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormChiTietNhanLuc.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormNhanLuc.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormTaiDonVi.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormTongHoptai.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormTraCuu.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormUser.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.exe
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\GUI.exe.config
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\GUI.exe
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\GUI.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\GUI\obj\Debug\GUI.FormBaoCao.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\GUI.exe.config
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\GUI.exe
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\GUI.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormBaoCao.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormCongTac.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormLyLichCaNhan.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormChiTietNhanLuc.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormNhanLuc.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormTaiDonVi.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormTongHoptai.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormTraCuu.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.FormUser.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.exe
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\GUI\obj\Debug\GUI.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\GUI.exe.config
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\GUI.exe
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\GUI.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\BLL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\BLL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormBaoCao.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormCongTac.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormLyLichCaNhan.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormChiTietNhanLuc.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormNhanLuc.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormTaiDonVi.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormTongHoptai.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormTraCuu.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormUser.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.exe
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\GUI.exe.config
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\GUI.exe
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\GUI.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\BLL.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DTO.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DAL.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\BLL.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DTO.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\bin\Debug\DAL.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormBaoCao.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormCongTac.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormLogin.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormLyLichCaNhan.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormChiTietNhanLuc.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormNhanLuc.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormTaiDonVi.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormTongHoptai.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormTraCuu.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.FormUser.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.exe
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\GUI\obj\Debug\GUI.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\GUI.exe.config
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\GUI.exe
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\GUI.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\BLL.dll
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\BLL.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormBaoCao.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormCongTac.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormLyLichCaNhan.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormChiTietNhanLuc.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormNhanLuc.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormTaiDonVi.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormTongHoptai.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormTraCuu.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormUser.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.exe
+C:\Users\ADMIN\Desktop\TeacherManager\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\GUI.exe.config
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\GUI.exe
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\GUI.pdb
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\BLL.dll
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\BLL.pdb
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\TeacherManager\GUI\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormBaoCao.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormCongTac.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormLogin.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormLyLichCaNhan.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormChiTietNhanLuc.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormNhanLuc.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormTaiDonVi.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormTongHoptai.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormTraCuu.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.FormUser.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.exe
+C:\Users\DELL\Desktop\TeacherManager\GUI\obj\Debug\GUI.pdb

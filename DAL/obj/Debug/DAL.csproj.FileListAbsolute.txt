@@ -1,0 +1,72 @@
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\bin\Debug\DTO.dll
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\bin\Debug\DTO.pdb
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN\source\repos\DB_Extern\DAL\obj\Debug\DAL.pdb
+D:\Project\DB_Extern\DAL\bin\Debug\DAL.dll
+D:\Project\DB_Extern\DAL\bin\Debug\DAL.pdb
+D:\Project\DB_Extern\DAL\bin\Debug\DTO.dll
+D:\Project\DB_Extern\DAL\bin\Debug\DTO.pdb
+D:\Project\DB_Extern\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Project\DB_Extern\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project\DB_Extern\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project\DB_Extern\DAL\obj\Debug\DAL.dll
+D:\Project\DB_Extern\DAL\obj\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\obj\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\obj\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Thực tập CSDL\DB_Extern\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\obj\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Program\DB_Extern\DAL\obj\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DAL.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DAL.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DTO.dll
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DTO.pdb
+D:\Học tập\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DAL.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DAL.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DTO.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\bin\Debug\DTO.pdb
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.dll
+D:\Study\Học tập năm 3\Kì II\Công nghệ phần mềm\Thi hết môn\Program\DB_Extern\DAL\obj\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\bin\Debug\DTO.dll
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN\Desktop\TeacherManager\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Desktop\TeacherManager\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\TeacherManager\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\TeacherManager\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\TeacherManager\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\TeacherManager\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TeacherManager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TeacherManager\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\Desktop\TeacherManager\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Desktop\TeacherManager\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3418D619-239A-4668-8625-233B707DD647}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaoCao.Designer.cs">
+      <DependentUpon>FormBaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCongTac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCongTac.Designer.cs">
+      <DependentUpon>FormCongTac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLyLichCaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLyLichCaNhan.Designer.cs">
+      <DependentUpon>FormLyLichCaNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChiTietNhanLuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChiTietNhanLuc.Designer.cs">
+      <DependentUpon>FormChiTietNhanLuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhanLuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhanLuc.Designer.cs">
+      <DependentUpon>FormNhanLuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTaiDonVi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTaiDonVi.Designer.cs">
+      <DependentUpon>FormTaiDonVi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTongHoptai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTongHoptai.Designer.cs">
+      <DependentUpon>FormTongHoptai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTraCuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTraCuu.Designer.cs">
+      <DependentUpon>FormTraCuu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quản_lý_giáo_viên_đại_họcDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Quản_lý_giáo_viên_đại_họcDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Quản_lý_giáo_viên_đại_họcDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet2.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormBaoCao.resx">
+      <DependentUpon>FormBaoCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCongTac.resx">
+      <DependentUpon>FormCongTac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLyLichCaNhan.resx">
+      <DependentUpon>FormLyLichCaNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChiTietNhanLuc.resx">
+      <DependentUpon>FormChiTietNhanLuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhanLuc.resx">
+      <DependentUpon>FormNhanLuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTaiDonVi.resx">
+      <DependentUpon>FormTaiDonVi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTongHoptai.resx">
+      <DependentUpon>FormTongHoptai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTraCuu.resx">
+      <DependentUpon>FormTraCuu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{9b1079ef-de79-4cb1-9686-85f6ab7a524c}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{7f9261a4-b247-4f6d-b323-1a2a84f3c077}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet.xsc">
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Quản_lý_giáo_viên_đại_họcDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet.xss">
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet1.xsc">
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Quản_lý_giáo_viên_đại_họcDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet1.xss">
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet2.xsc">
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Quản_lý_giáo_viên_đại_họcDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Quản_lý_giáo_viên_đại_họcDataSet2.xss">
+      <DependentUpon>Quản_lý_giáo_viên_đại_họcDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users-Name-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users-Name-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Security-Password-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36438127_2170194749918936_5327009286818103296_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Distributor-report-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newspaper-jobs-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Big-Data-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chest-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-clock-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Education-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Experience-Points-XP-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm-Arrow-Left-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ngoac.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ngoac1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ngoac2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ngoạc.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ngoac3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ngoac4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-arrow-left-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-go-previous-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

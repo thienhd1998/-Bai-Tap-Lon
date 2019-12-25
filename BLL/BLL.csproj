@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B1079EF-DE79-4CB1-9686-85F6AB7A524C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BangTamFbll.cs" />
+    <Compile Include="DetailLATSbll.cs" />
+    <Compile Include="DetailLVCHbll.cs" />
+    <Compile Include="GetTenGVBLL.cs" />
+    <Compile Include="GiangDayDetailbll.cs" />
+    <Compile Include="HocHamFullbll.cs" />
+    <Compile Include="HocHamMaxbll.cs" />
+    <Compile Include="HocViFullbll.cs" />
+    <Compile Include="HocViMaxbll.cs" />
+    <Compile Include="LietKeBBbll.cs" />
+    <Compile Include="NhanLucATTTbll.cs" />
+    <Compile Include="NhanLucCNPMbll.cs" />
+    <Compile Include="NhanLucCNTTbll.cs" />
+    <Compile Include="NhanLucHTTTbll.cs" />
+    <Compile Include="NhanLucKHMTbll.cs" />
+    <Compile Include="NhanLucKhoaBLL.cs" />
+    <Compile Include="NhanLucKhoaCNTTbll.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SachCKbll.cs" />
+    <Compile Include="SachGTbll.cs" />
+    <Compile Include="SearchGVbll.cs" />
+    <Compile Include="SoBBbll.cs" />
+    <Compile Include="SoBBTrongNuocbll.cs" />
+    <Compile Include="SoLATSdaHDbll.cs" />
+    <Compile Include="SoLATSdangHDbll.cs" />
+    <Compile Include="SoLVCHbll.cs" />
+    <Compile Include="ThongTinCNKhoabll.cs" />
+    <Compile Include="ThongTinGVBMbll.cs" />
+    <Compile Include="TinhTai\TinhTaiBLL.cs" />
+    <Compile Include="TLKhacbll.cs" />
+    <Compile Include="Userbll.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{a55fba4c-2f56-460b-afe8-ea941ca54fbc}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{7f9261a4-b247-4f6d-b323-1a2a84f3c077}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
